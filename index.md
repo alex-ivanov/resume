@@ -9,16 +9,17 @@ title: Alex Ivanov's CV
 
 ## Summary
 
-Experienced software engineer with a strong background in designing, developing, and implementing innovative solutions for major technology companies. Proven track record of improving efficiency, scalability, and reliability through the creation of effective tools and frameworks. Skilled in leading teams to deliver high-impact projects. Interested in advancing the role of configuration in software development and promoting its recognition as a critical component of programming languages.
+Experienced software engineer with a strong background in designing, developing, and implementing innovative solutions for major technology companies. Proven track record in leading teams to deliver high-impact projects spanning developer tools, AI-assisted platforms, and testing infrastructure. Skilled at driving adoption through technical evangelism and cross-functional collaboration.
 
 ## Professional Experience
 
 ### **Google** <br/>  Jun 2019 - Current
 **Staff Engineer**
-- Led config safety work group to streamline configuration changes, making them faster, easier, and more secure.
+- Led the observability and evaluation initiative for Google's AI-assisted code migration platform, a hosted solution enabling 100+ teams across the company to execute large-scale code transformations. Platform generated 100K+ changelists in the past year; built the critical evaluation infrastructure ensuring migration quality at scale.
+- Defined the technical strategy for configuration safety, leading a cross-functional work group that streamlined configuration changes across Google. Developed a validation framework now protecting 1M+ configurations company-wide, preventing production incidents daily.
 - Developed a novel approach to configuration testing, presented at the SPLASH 2023 conference. Advocated for elevating configuration to a first-class citizen among programming languages.
-- Consolidated multiple testing frameworks into a single, extensible tool without compromising functionality or coverage. Integrated the tool with all internal frameworks and tools, achieving company-wide adoption.
-- Guided a team in developing tools for configuration analysis and testing.
+- Consolidated multiple testing frameworks into a single, extensible tool without compromising functionality or coverage. Drove integration with all internal frameworks, achieving company-wide adoption.
+- Led a team in developing tools for configuration analysis and testing, mentoring engineers and establishing best practices for the domain.
 
 ### **Apple** <br/> Jun 2014 - May 2019
 **Senior Software Engineer** 
