@@ -4,44 +4,46 @@ title: Alex Ivanov's CV
 ---
 # Alex Ivanov
 <div id="webaddress">
-<a href="alex@ivanov.es">alex@ivanov.es</a>
+<a href="mailto:alex@ivanov.es">alex@ivanov.es</a>
 </div>
 
 ## Summary
 
-Experienced software engineer with a strong background in designing, developing, and implementing innovative solutions for major technology companies. Proven track record in leading teams to deliver high-impact projects spanning developer tools, AI-assisted platforms, and testing infrastructure. Skilled at driving adoption through technical evangelism and cross-functional collaboration.
+Staff software engineer with 20+ years of experience building developer tools, testing infrastructure and AI platforms. Most recently led quality evaluation for an LLM product at Google, covering eval infrastructure, eval set curation and large-scale analysis of production conversations. Track record of driving company-wide adoption through technical leadership and cross-functional collaboration.
 
 ## Professional Experience
 
 ### **Google** <br/>  Jun 2019 - Current
 **Staff Engineer**
-- Led the observability and evaluation initiative for Google's AI-assisted code migration platform, a hosted solution enabling 100+ teams across the company to execute large-scale code transformations. Platform generated 100K+ changelists in the past year; built the critical evaluation infrastructure ensuring migration quality at scale.
-- Defined the technical strategy for configuration safety, leading a cross-functional work group that streamlined configuration changes across Google. Developed a validation framework now protecting 1M+ configurations company-wide, preventing production incidents daily.
-- Developed a novel approach to configuration testing, presented at the SPLASH 2023 conference. Advocated for elevating configuration to a first-class citizen among programming languages.
-- Consolidated multiple testing frameworks into a single, extensible tool without compromising functionality or coverage. Drove integration with all internal frameworks, achieving company-wide adoption.
-- Led a team in developing tools for configuration analysis and testing, mentoring engineers and establishing best practices for the domain.
+- Tech lead for quality on Google's largest internal AI chat assistant outside of coding tools. Established quality monitoring and validation, built the evaluation infrastructure, and owned curation and ongoing refresh of eval sets.
+- Designed and deployed a privacy-preserving analytics platform that classifies user conversations across multiple dimensions, scaling to 90K users, 250K conversations a day and 10M messages a week. It enabled continuous quality monitoring, tied eval sets to real production traffic, and pinpointed areas where quality lagged, all without anyone reading raw conversations.
+- Led observability and evaluation for Google's AI-assisted code migration platform, used by 100+ teams for large-scale code transformations. Built the evaluation infrastructure that ensures migration quality across 100K+ generated changelists.
+- Defined the technical strategy for configuration safety and led a cross-functional working group that streamlined configuration changes across Google. Built a validation framework that now protects 1M+ configurations company-wide and prevents production incidents daily.
+- Developed a new approach to configuration testing, presented at SPLASH 2023, arguing that configuration should be treated as a first-class programming language.
+- Consolidated multiple testing frameworks into a single extensible tool with no loss of functionality or coverage, then integrated it with all internal frameworks to reach company-wide adoption.
+- Led a team building configuration analysis and testing tools; mentored engineers and set best practices for the area.
 
 ### **Apple** <br/> Jun 2014 - May 2019
-**Senior Software Engineer** 
-- Led the design and delivery of a localization management tool for iTunes, enhancing the platform's global reach.
-- Directed the development of a synthetic iTunes client, generating realistic traffic and comprehensive tests for the platform.
-- Implemented critical features for iTunes commerce, including the App Store on Apple TV, driving revenue growth and user engagement.
+**Senior Software Engineer**
+- Led design and delivery of the localization management tool for iTunes, supporting its international storefronts.
+- Led development of a synthetic iTunes client that generated realistic traffic and end-to-end tests for the platform.
+- Built core iTunes commerce features, including the App Store on Apple TV.
 
 ### **Thinkorswim** <br/> Jan 2011 - Jun 2014
-**Senior Software Engineer** 
-- Designed and developed the thinkscript compiler and its supporting infrastructure, empowering users with advanced trading capabilities.
-- Created a robust test suite for the thinkscript compiler, improving team productivity and code quality.
+**Senior Software Engineer**
+- Designed and built the thinkScript compiler and its supporting infrastructure, letting traders write their own indicators and strategies.
+- Built the compiler's test suite, improving code quality and team productivity.
 
 ### **Deutsche Bank**  <br/> Jun 2008 - Dec 2010
-**Senior Software Engineer** 
-- Served as a senior Java developer and architect for the AutobahnFI (Fixed Income) project.
-- Developed multiple products, including a scalable order matching engine, enhancing the platform's capabilities and reliability.
+**Senior Software Engineer**
+- Senior Java developer and architect on AutobahnFI, the bank's fixed income trading platform.
+- Built several platform components, including a scalable order matching engine.
 
 ### **Yandex** <br/> Jul 2007 - Jun 2008
-**Java Software Engineer** 
-- Contributed to the development of an internal instance of Atlassian JIRA, implementing core patches and developing various plugins.
-- Optimized JIRA's performance and integrated it with internal services, improving overall efficiency and user experience.
+**Java Software Engineer**
+- Extended Yandex's internal Atlassian JIRA deployment with core patches and custom plugins.
+- Improved JIRA's performance and integrated it with internal services.
 
 ### **Vita-plus** <br/> Jan 2005 - Jul 2007
-**Software Engineer** 
-- Developed software solutions for a regional drugstore chain, streamlining operations and enhancing customer satisfaction.
+**Software Engineer**
+- Built operations software for a regional drugstore chain.
