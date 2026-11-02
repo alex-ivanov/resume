@@ -16,12 +16,12 @@ Staff software engineer with 20+ years of experience building developer tools, t
 ### **Google** <br/>  Jun 2019 - Current
 **Staff Engineer**
 
-#### AI Quality and Evaluation <br/> 2025 - Current
+*AI Quality and Evaluation, 2025 - Current*
 - Tech lead for quality on Google's largest internal AI chat assistant outside of coding tools. Set up quality monitoring and validation, built the evaluation infrastructure, and owned curation and ongoing refresh of eval sets.
 - Designed and deployed a privacy-preserving analytics platform that classifies user conversations across multiple dimensions, scaling to 90K users, 250K conversations a day and 10M messages a week. It enabled continuous quality monitoring, tied eval sets to real production traffic, and pinpointed areas where quality lagged, all without anyone reading raw conversations.
 - Headed observability and evaluation for Google's AI-assisted code migration platform, used by 100+ teams for large-scale code transformations. Created the evaluation infrastructure that ensures migration quality across 100K+ generated changelists.
 
-#### Configuration Testing and Analysis <br/> Jun 2019 - 2025
+*Configuration Testing and Analysis, Jun 2019 - 2025*
 - Defined the technical strategy for configuration safety and ran a cross-functional working group that streamlined configuration changes across Google. Delivered a validation framework that now protects 1M+ configurations company-wide and prevents production incidents daily.
 - Unified multiple testing frameworks into a single extensible tool with no loss of functionality or coverage, and integrated it with all internal frameworks. The tool now serves 100K+ developers, running 1M+ tests and 10M+ test runs a day.
 - Led a team building configuration analysis and testing tools; mentored engineers and set best practices for the area.
